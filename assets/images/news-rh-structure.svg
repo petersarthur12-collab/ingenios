@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Organigramme et équipe : structurer la fonction RH">
+<defs>
+<linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EAF4FB"/><stop offset="1" stop-color="#CFE6F5"/></linearGradient>
+<linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0B4F7C"/><stop offset="1" stop-color="#062B4B"/></linearGradient>
+</defs>
+<rect width="640" height="400" fill="url(#a)"/>
+<circle cx="560" cy="60" r="120" fill="#0096CE" opacity=".12"/><circle cx="60" cy="360" r="110" fill="#82C42F" opacity=".16"/>
+<g stroke="#0B4F7C" stroke-width="3" fill="none" stroke-linecap="round" opacity=".55">
+<path d="M320 120v36M320 156H150v34M320 156h170v34M320 156v34"/><path d="M150 250v28M490 250v28M320 250v28"/></g>
+<rect x="250" y="62" width="140" height="58" rx="14" fill="url(#b)"/>
+<circle cx="285" cy="91" r="12" fill="#fff"/><path d="M265 112c4-14 36-14 40 0z" fill="#fff"/>
+<rect x="308" y="82" width="64" height="8" rx="4" fill="#fff" opacity=".85"/><rect x="308" y="97" width="44" height="7" rx="3.5" fill="#82C42F"/>
+<g>
+<rect x="92" y="190" width="116" height="60" rx="14" fill="#fff" stroke="#0B4F7C" stroke-opacity=".25"/>
+<circle cx="122" cy="220" r="11" fill="#0096CE"/><rect x="142" y="210" width="54" height="8" rx="4" fill="#0B4F7C" opacity=".8"/><rect x="142" y="225" width="38" height="7" rx="3.5" fill="#0B4F7C" opacity=".35"/>
+<rect x="262" y="190" width="116" height="60" rx="14" fill="#fff" stroke="#0B4F7C" stroke-opacity=".25"/>
+<circle cx="292" cy="220" r="11" fill="#82C42F"/><rect x="312" y="210" width="54" height="8" rx="4" fill="#0B4F7C" opacity=".8"/><rect x="312" y="225" width="38" height="7" rx="3.5" fill="#0B4F7C" opacity=".35"/>
+<rect x="432" y="190" width="116" height="60" rx="14" fill="#fff" stroke="#0B4F7C" stroke-opacity=".25"/>
+<circle cx="462" cy="220" r="11" fill="#23893A"/><rect x="482" y="210" width="54" height="8" rx="4" fill="#0B4F7C" opacity=".8"/><rect x="482" y="225" width="38" height="7" rx="3.5" fill="#0B4F7C" opacity=".35"/>
+</g>
+<g fill="#fff" stroke="#0B4F7C" stroke-opacity=".25">
+<rect x="112" y="278" width="76" height="46" rx="12"/><rect x="282" y="278" width="76" height="46" rx="12"/><rect x="452" y="278" width="76" height="46" rx="12"/></g>
+<g fill="#0B4F7C"><circle cx="130" cy="301" r="8"/><circle cx="300" cy="301" r="8"/><circle cx="470" cy="301" r="8"/></g>
+<g fill="#0B4F7C" opacity=".4"><rect x="144" y="296" width="32" height="6" rx="3"/><rect x="314" y="296" width="32" height="6" rx="3"/><rect x="484" y="296" width="32" height="6" rx="3"/></g>
+<circle cx="572" cy="340" r="30" fill="#82C42F"/><path d="M558 340l10 10 19-20" fill="none" stroke="#062B4B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

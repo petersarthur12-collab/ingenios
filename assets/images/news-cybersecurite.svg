@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Bouclier et cadenas : cybersécurité pour les PME">
+<defs>
+<linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#062B4B"/><stop offset="1" stop-color="#0B4F7C"/></linearGradient>
+<radialGradient id="g" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#2EB4E8" stop-opacity=".6"/><stop offset="1" stop-color="#2EB4E8" stop-opacity="0"/></radialGradient>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2EB4E8"/><stop offset="1" stop-color="#0B4F7C"/></linearGradient>
+</defs>
+<rect width="640" height="400" fill="url(#a)"/>
+<circle cx="320" cy="200" r="190" fill="url(#g)"/>
+<g stroke="#8FC7EA" stroke-width="1.6" opacity=".55" fill="none">
+<path d="M40 70h120l40 50h60M600 330H480l-40-50h-60M70 300h90l30-40M580 100H500l-30 40"/>
+<circle cx="320" cy="200" r="150" stroke-dasharray="3 9"/><circle cx="320" cy="200" r="115"/></g>
+<g fill="#8FC7EA"><circle cx="40" cy="70" r="6"/><circle cx="260" cy="120" r="6"/><circle cx="600" cy="330" r="6"/><circle cx="380" cy="280" r="6"/><circle cx="70" cy="300" r="6"/><circle cx="580" cy="100" r="6"/></g>
+<g fill="#82C42F"><circle cx="190" cy="260" r="7"/><circle cx="470" cy="140" r="7"/></g>
+<path d="M320 82l92 34v70c0 62-40 104-92 130-52-26-92-68-92-130v-70z" fill="url(#s)" stroke="#fff" stroke-opacity=".7" stroke-width="3"/>
+<path d="M320 100l76 28v58c0 52-33 87-76 109-43-22-76-57-76-109v-58z" fill="#062B4B" opacity=".55"/>
+<rect x="283" y="196" width="74" height="60" rx="10" fill="#fff"/>
+<path d="M298 196v-18a22 22 0 0 1 44 0v18" fill="none" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
+<circle cx="320" cy="222" r="8" fill="#0B4F7C"/><rect x="316.5" y="226" width="7" height="16" rx="3.5" fill="#0B4F7C"/>
+<g transform="translate(470 250)"><rect width="104" height="70" rx="10" fill="#fff" opacity=".95"/><rect x="12" y="14" width="56" height="8" rx="4" fill="#0B4F7C"/><rect x="12" y="30" width="80" height="6" rx="3" fill="#0B4F7C" opacity=".35"/><rect x="12" y="44" width="64" height="6" rx="3" fill="#0B4F7C" opacity=".35"/><circle cx="86" cy="18" r="7" fill="#82C42F"/></g>
+</svg>

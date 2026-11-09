@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Tablette avec dossier patient et rythme cardiaque : santé numérique">
+<defs>
+<linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EAF7EE"/><stop offset="1" stop-color="#D4EEF6"/></linearGradient>
+<linearGradient id="t" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0B4F7C"/><stop offset="1" stop-color="#062B4B"/></linearGradient>
+</defs>
+<rect width="640" height="400" fill="url(#a)"/>
+<circle cx="90" cy="70" r="110" fill="#82C42F" opacity=".22"/><circle cx="580" cy="340" r="130" fill="#0096CE" opacity=".16"/>
+<g transform="translate(130 56)">
+<rect width="380" height="270" rx="26" fill="#0A1D31"/>
+<rect x="12" y="12" width="356" height="246" rx="16" fill="url(#t)"/>
+<rect x="30" y="30" width="96" height="96" rx="14" fill="#fff" opacity=".95"/>
+<circle cx="78" cy="64" r="18" fill="#0096CE"/><path d="M44 112c6-22 58-22 68 0z" fill="#0096CE"/>
+<rect x="144" y="34" width="150" height="12" rx="6" fill="#fff"/><rect x="144" y="56" width="110" height="9" rx="4.5" fill="#fff" opacity=".5"/><rect x="144" y="74" width="130" height="9" rx="4.5" fill="#fff" opacity=".5"/><rect x="144" y="92" width="86" height="9" rx="4.5" fill="#fff" opacity=".5"/>
+<rect x="310" y="30" width="40" height="40" rx="12" fill="#82C42F"/><path d="M330 38v24M318 50h24" stroke="#062B4B" stroke-width="6" stroke-linecap="round"/>
+<rect x="30" y="144" width="320" height="94" rx="14" fill="#031A2F" opacity=".7"/>
+<path d="M42 196h54l12-28 16 52 18-72 16 48h38l14-18 14 18h46l16-12h26" fill="none" stroke="#82C42F" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(288 152)"><path d="M18 34c-14-9-20-16-20-24A10 10 0 0 1 18 6a10 10 0 0 1 20 4c0 8-6 15-20 24z" fill="#FF5C7A"/></g>
+</g>
+<g transform="translate(486 262)"><circle r="34" fill="#fff" stroke="#23893A" stroke-width="4"/><path d="M-12 0l9 10 17-20" fill="none" stroke="#23893A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g transform="translate(72 290)"><rect width="84" height="56" rx="12" fill="#fff"/><path d="M42 40c-14-8-20-14-20-21a9 9 0 0 1 20-3 9 9 0 0 1 20 3c0 7-6 13-20 21z" fill="#23893A"/></g>
+</svg>
